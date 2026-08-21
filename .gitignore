@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .venv/
+
+First.py
+app.py
