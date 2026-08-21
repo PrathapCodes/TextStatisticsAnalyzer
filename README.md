@@ -60,4 +60,4 @@ Screenshots will be added here after project execution.
 
 ## Author
 
-**Prathap V S**
+**Prathapa V**
