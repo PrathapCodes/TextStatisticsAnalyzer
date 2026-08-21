@@ -1,0 +1,7 @@
+Python is a powerful programming language.
+
+Python is easy to learn.
+
+Python is widely used in machine learning.
+
+Machine learning is one of the fastest growing fields.

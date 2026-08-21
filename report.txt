@@ -1,0 +1,19 @@
+TEXT ANALYSIS REPORT
+==============================
+Characters: 168
+Words: 27
+Sentences: 4
+Paragraphs: 4
+Unique Words: 20
+
+Top 10 Words:
+is: 4
+python: 3
+machine: 2
+learning: 2
+a: 1
+powerful: 1
+programming: 1
+language: 1
+easy: 1
+to: 1
